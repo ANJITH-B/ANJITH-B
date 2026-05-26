@@ -1,16 +1,17 @@
-### Hi there 👋
 
-<!--
-**ANJITH-B/ANJITH-B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<sub style="font-size:18px">
+  Hi there 👋 <br>
+  Frontend Developer | React <br><br>
+  • I love building and shipping things<br>
+  • Interested working with <code>Three.js</code> & <code>Framer motion</code><br>
+  • Building scalable <code>frontend architectures</code> <br>
+</sub>
+<br>
+<sub>
+Reach out to me on Twitter/X or LinkedIn or send me an email. I'm always interested in collaborating on exciting projects and meeting fellow developers :)
+</sub>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
