@@ -1,15 +1,27 @@
+<div align="center">
 
-<sub style="font-size:18px">
-  Hi there 👋 <br>
-  Frontend Developer | React <br><br>
-  • I love building and shipping things<br>
-  • Interested working with <code>Three.js</code> & <code>Framer motion</code><br>
-  • Building scalable <code>frontend architectures</code> <br>
-</sub>
-<br>
-<sub>
-Reach out to me on Twitter/X or LinkedIn or send me an email. I'm always interested in collaborating on exciting projects and meeting fellow developers :)
-</sub>
+<table>
+<tr>
+<td align="center">
+
+<samp>
+Hi there 👋 <br>
+Frontend Developer | React <br><br>
+
+• Passionate about building and shipping impactful products <br>
+• Exploring immersive interfaces with <code>Three.js</code> & <code>Framer Motion</code> <br>
+• Enjoy building scalable <code>frontend architectures</code> <br><br>
+
+Feel free to reach out — always open to collaborate exciting projects ✨
+</samp>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+
 
 
 
