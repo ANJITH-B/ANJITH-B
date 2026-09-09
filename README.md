@@ -6,7 +6,7 @@
 
 <samp>
 Hi there 👋 <br>
-Frontend Developer | React <br><br>
+Software Developer <br><br>
 
 • Passionate about building and shipping impactful products <br>
 • Exploring immersive interfaces with <code>Three.js</code> & <code>Framer Motion</code> <br>
